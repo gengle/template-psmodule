@@ -1,0 +1,8 @@
+TOPIC
+    about_WrbSsoCert
+
+SHORT DESCRIPTION
+    WrbSsoCert is a PowerShell module for...
+
+LONG DESCRIPTION
+    The WrbSsoCert PowerShell module...
